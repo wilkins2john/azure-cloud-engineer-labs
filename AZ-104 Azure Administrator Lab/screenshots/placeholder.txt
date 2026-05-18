@@ -1,1 +1,1 @@
-
+Screenshot folder for AZ-104 Identity and RBAC Lab.
