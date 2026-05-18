@@ -1,6 +1,5 @@
 AZURE project setup
 COMPANY NAME:Contoso Manufacturing
-CREATE USERS:
 STEPS TAKEN TO CREATE USERS:
 
 1. Opened Microsoft Entra ID in Azure Portal
